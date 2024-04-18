@@ -27,14 +27,23 @@ Welcome to our Mechanical Fatigue Prediction Project, where we explore machine l
 ## Project Overview
 Mechanical fatigue prediction is a critical aspect of engineering, ensuring the safety and reliability of components and systems. In this project, we focus on predicting fatigue life for three important materials: Ti-6Al-4V, IN718 (Inconel 718), and AlSi10Mg.
 
-### Ti-6Al-4V
-Ti-6Al-4V is a widely used titanium alloy known for its excellent strength-to-weight ratio, corrosion resistance, and high-temperature performance. It finds applications in aerospace, medical implants, marine components, and more. Accurate fatigue life prediction for Ti-6Al-4V is crucial for designing reliable structures and components in these industries.
+## Specific Materials Details
 
-### IN718 (Inconel 718)
-IN718, a nickel-based superalloy, exhibits exceptional strength, oxidation resistance, and creep properties at high temperatures. It is extensively used in aerospace, gas turbine engines, and other high-temperature applications. Predicting fatigue life accurately for IN718 is vital for ensuring the structural integrity and safety of critical components in these demanding environments.
+### Titanium Alloy (Ti-6Al-4V)
+![Ti-6Al-4V](https://www.researchgate.net/publication/282422014/figure/fig2/AS:667815094800398@1536230934951/Ti-6Al-4V-alloy-commercial-powder-used-for-DMLS.ppm)
 
-### AlSi10Mg
-AlSi10Mg is an aluminum alloy commonly used in additive manufacturing processes such as 3D printing. It offers good corrosion resistance, high strength-to-weight ratio, and ease of machinability. Accurate fatigue life prediction for AlSi10Mg is essential for optimizing design parameters and ensuring reliability in additive manufacturing applications.
+Ti-6Al-4V is a widely used titanium alloy known for its excellent corrosion resistance and high strength-to-weight ratio. It finds applications in aerospace, biomedical implants, and automotive industries. The alloy's fatigue behavior is crucial in structural design and durability assessment.
+
+### Inconel 718 (IN718)
+![IN718](https://www.pollen.am/assets/images/materials/materials_illustration/material_inconel.jpeg)
+
+IN718 is a nickel-based superalloy known for its high temperature and corrosion resistance properties. It is extensively used in aerospace, gas turbines, and automotive applications. Understanding its fatigue behavior is vital for ensuring component reliability under extreme conditions.
+
+### Aluminum Alloy (AlSi10Mg)
+![AlSi10Mg](https://www.researchgate.net/publication/329150091/figure/fig2/AS:696128697810947@1542981423877/SEM-of-AlSi10Mg-powders-SEM-of-AlSi10Mg-powders-Materials-2018-11-x-FOR-PEER-REVIEW.png)
+
+AlSi10Mg is an aluminum-silicon-magnesium alloy commonly used in additive manufacturing (3D printing). Its lightweight properties and good mechanical strength make it suitable for aerospace and automotive applications. Predicting its fatigue life aids in optimizing component design and performance.
+
 
 ## Data
 The project utilizes a curated dataset encompassing critical features relevant to mechanical fatigue behavior. The data preprocessing phase handled outliers, missing values, and feature scaling to prepare the dataset for machine learning models.
