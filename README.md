@@ -30,17 +30,14 @@ Mechanical fatigue prediction is a critical aspect of engineering, ensuring the 
 ## Specific Materials Details
 
 ### Titanium Alloy (Ti-6Al-4V)
-![Ti-6Al-4V](https://www.researchgate.net/publication/282422014/figure/fig2/AS:667815094800398@1536230934951/Ti-6Al-4V-alloy-commercial-powder-used-for-DMLS.ppm)
 
 Ti-6Al-4V is a widely used titanium alloy known for its excellent corrosion resistance and high strength-to-weight ratio. It finds applications in aerospace, biomedical implants, and automotive industries. The alloy's fatigue behavior is crucial in structural design and durability assessment.
 
 ### Inconel 718 (IN718)
-![IN718](https://www.pollen.am/assets/images/materials/materials_illustration/material_inconel.jpeg)
 
 IN718 is a nickel-based superalloy known for its high temperature and corrosion resistance properties. It is extensively used in aerospace, gas turbines, and automotive applications. Understanding its fatigue behavior is vital for ensuring component reliability under extreme conditions.
 
 ### Aluminum Alloy (AlSi10Mg)
-![AlSi10Mg](https://www.researchgate.net/publication/329150091/figure/fig2/AS:696128697810947@1542981423877/SEM-of-AlSi10Mg-powders-SEM-of-AlSi10Mg-powders-Materials-2018-11-x-FOR-PEER-REVIEW.png)
 
 AlSi10Mg is an aluminum-silicon-magnesium alloy commonly used in additive manufacturing (3D printing). Its lightweight properties and good mechanical strength make it suitable for aerospace and automotive applications. Predicting its fatigue life aids in optimizing component design and performance.
 
